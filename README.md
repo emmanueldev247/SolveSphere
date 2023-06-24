@@ -16,6 +16,7 @@ The repository is structured as follows:
 │ ├── challenge-name  
 │ │ └── solution1.py  
 │ └── ...  
+├── .gitignore  
 ├── LICENSE  
 └── README.md  
 
