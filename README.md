@@ -7,17 +7,17 @@ This repository serves as a collection of solutions to various coding challenges
 The repository is structured as follows:
 
 .
-├── Solutions
-│ ├── challenge-name
-│ │ ├── solution1.py
-│ │ ├── solution2.py
-│ │ ├── needed-files
-│ │ └── ...
-│ ├── challenge-name
-│ │ └── solution1.py
-│ └── ...
-├── LICENSE
-└── README.md
+├── Solutions  
+│ ├── challenge-name  
+│ │ ├── solution1.py  
+│ │ ├── solution2.py  
+│ │ ├── needed-files  
+│ │ └── ...  
+│ ├── challenge-name  
+│ │ └── solution1.py  
+│ └── ...  
+├── LICENSE  
+└── README.md  
 
 
 - The `challenge-name` directory contains subdirectories for each solution.
@@ -49,4 +49,4 @@ The solutions in this repository are intended for educational and reference purp
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/emmanueldev247/sss/blob/main/LICENSE). Feel free to use the code in accordance with the license terms.
+This repository is licensed under the [MIT License](https://github.com/emmanueldev247/SolveSphere/blob/main/LICENSE). Feel free to use the code in accordance with the license terms.
