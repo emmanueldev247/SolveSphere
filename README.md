@@ -13,7 +13,7 @@ The repository is structured as follows:
 │ │ ├── solution2.py  
 │ │ ├── needed-files  
 │ │ └── ...  
-│ ├── challenge-name  
+│├── challenge-name  
 │ │ └── solution1.py  
 │ └── ...  
 ├── LICENSE  
